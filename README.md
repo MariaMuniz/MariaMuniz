@@ -1,4 +1,4 @@
-### olá eu sou a Maria Muniz
+### Olá eu sou a Maria Muniz
 
 
 
@@ -9,4 +9,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- <img height="180em" src="https://github-readme-starts.vercel.app/api?username=mariamuniz&show_icons-true&theme-dracula&include_all_commits-true&count_private_true/>
