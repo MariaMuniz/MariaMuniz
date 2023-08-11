@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Eu estou estudando React, TypeScript, java e springboot.
+- 🔭 Eu estou estudando React, TypeScript, Java e Springboot.
 - 👯 Contate-me pelo email: cidamuniz2011@yahoo.com.br
  <div>
   
